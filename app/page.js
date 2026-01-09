@@ -17,7 +17,7 @@ if (
 
 const HERO_TEXT = "HSN Hacks 2026";
 const COUNTDOWN_TARGET = "2026-01-31T08:00:00-05:00";
-const CLASSROOM_CODE = "32txdlk";
+const CLASSROOM_CODE = "j3yokhe6";
 
 const HERO_STATS = [
   {
